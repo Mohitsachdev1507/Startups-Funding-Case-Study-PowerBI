@@ -1,4 +1,3 @@
-# Startups-Funding-Case-Study-PowerBI
 
 # PROBLEM STATEMENT
 
